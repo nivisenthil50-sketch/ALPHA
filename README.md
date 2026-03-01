@@ -1,2 +1,2 @@
 this is my website
-fake-job-mentor.lovable.app
+https://fake-job-mentor.lovable.app/
